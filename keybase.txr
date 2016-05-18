@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/beeell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://beeell.com
+  * I am beeell (https://keybase.io/beeell) on keybase.
+  * I have a public key with fingerprint 0036 4254 6512 319D 2A15  F300 A7AB E0A5 E88E D200
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010134f4911d642a041df5df6187ffadb7c141f11a80242dafc13c9c6af1c13d21390a",
+            "fingerprint": "003642546512319d2a15f300a7abe0a5e88ed200",
+            "host": "keybase.io",
+            "key_id": "a7abe0a5e88ed200",
+            "kid": "010134f4911d642a041df5df6187ffadb7c141f11a80242dafc13c9c6af1c13d21390a",
+            "uid": "8e7c78d5a7c7d09716dacd155a715b19",
+            "username": "beeell"
+        },
+        "service": {
+            "hostname": "beeell.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1463573749,
+    "expire_in": 157680000,
+    "prev": "7608f800ab9967385ab0a347537a2b801f332b582c29df9647990ad29cfb088a",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMM7AnicrVJtUFRVGF7MRRZB1EiHHTS4FRPEMPfc77takMgwgMyYYB8KrOfeey5c
+Pvauu8uCgZUOY4i0kxjiF1mNiA4IMRpqpIGSUSsmNbkNVjiBxS8H3EAiPrqXqR/N
+9LPz5z3nOc/znOe88/aGPmYIDmhuudc06vnWEODtqSs1vLI+Z6ICE1RpF2apwIrQ
+QkHFEnK6rEWKhFkwHOCApGSKB0BiKALiFJBkWpIZwLGyDCWBFQEFZAAghxMUIUFZ
+BKTIiwyUgbaTCEDyOMTiMVmx5SOH3aHYXLotTmpuNMXQgCABLxEQ0DKJ45CFAsIh
+jTgOSQSOa8IC1akrtHACdKIERdUw7WBdiPcf/P85d+mCHYdYkeUkGmpFwnkWMBIU
+JUBrAKAFwOtEJ3LYYAnS2AJCqLgY2x2PaZhbEZHeVv0f/7pPENUSTWd3qC5VVIs1
+vMDlslt0mWuXXeeVIcH6t4NVUGyS1kJN4EYOp6LaMAvQmKJL0S0BxZA0S7IUH4+h
+crviQFZFZ9Asw+Ha0p9Bbs2SZXBO1iAo8DzDkhwNBRySFEuTLCQEDgcySRICzREi
+wUsyz1Asr/VBInhRFnCO0zviRDttKmYhtJgwX7N0Kvk26Cp1IGz3tZ6cxYaAYEOg
+cZE+WoZg0/J/Bu6lnrD5wpZ1NXCDYfM3z0/5x28Nc4lPmSY9WXVp7aYjHYuv3i1v
+TSvJ7mj+MPeCU/wi5tj30wMXorvlwTudfXtn4l4ALSGf7D8uJXeFtz3MHfJ1pjX4
++96c+OO9rLlGVgiObViSM8H0jldkXBGDUh2ZYHrnZc+QYY1XTY6uvX52PHKr5ejV
+DQ6Lp3HFiOEdSxL5TOWn9S+HLH/QsVnckf3xpbbfGjtm4j6fDmu/jTb6TtY0xezB
+z7y6JSD2zmxdnjHiYOYv9ytXnvrhM1+Vu/+GOZAw3v41MuXgWMEqU2RrYl5O1uDw
+sbEbNzPnu7c2bLeEhvjSV9EXid4+n+f9A2npw7PBG/My2h9vLYvqmT7cXf/z/aCP
+vFXG9DcSkqfdKeVhAfGnK2tGMxeV7SD84VPt1c9dZ1a0DZmpuWWrb435mwu8JyZT
+Cw/Fuovt69XopImlQamra7uK9tZHRIXyS537Tt2NbgudTens2nK65Vp/EllUEZR8
+LrV60qQm7j93oqq+3Hh84Ox3YxGjr0es2ZRy788nhw/nfeAziYmFv2+72BX+Y1fs
+Pvat7JGVnme5M28f6j1w5Sdz/bz//KOHgcbthYr5ptcsVi47f3Tgwdq5jNeWTL6b
+5f2qJKo3sbvpae+lJx71RwytnbLmRu/5mut/caQ2BF2eiZnP/fLkNnMcJ1cPsmA+
+zJkSGLPOP1z9F4g+vnY=
+=0Two
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/beeell
+
+==================================================================
